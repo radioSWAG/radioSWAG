@@ -13,4 +13,3 @@ Welcome to my GitHub! I am currently focused on Network Security, Linux Administ
 * Learning how to write Bash automation scripts for server monitoring
 * Preparing configurations for NGINX & Fail2ban
 
-📫 *Contact:* 254393@astanait.edu.kz
