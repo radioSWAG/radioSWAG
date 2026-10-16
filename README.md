@@ -1,7 +1,7 @@
 Hello there, I'm Zhandos
-### 👨‍💻 Cybersecurity Student | Network, System Administration and Security Enthusiast
+### 👨‍💻 Aspiting DevOps Engineer | Network systems and Linux enthusiast
 
-Welcome to my GitHub! I am currently focused on Network Security, Linux Administration, and Hands-on Labs.
+Welcome to my GitHub
 
 ## 🛠 Tech Stack & Tools
 * **OS:** Linux (Ubuntu Server, Kali Linux, Debian, CachyOS)
