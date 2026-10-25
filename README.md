@@ -1,15 +1,14 @@
 Hello there, I'm Zhandos
-### 👨‍💻 Aspiting DevOps Engineer | Network systems and Linux enthusiast
+### 👨‍💻 Aspiting DevOps Engineer
 
 Welcome to my GitHub
 
 ## 🛠 Tech Stack & Tools
-* **OS:** Linux (Ubuntu Server, Kali Linux, Debian, CachyOS)
-* **Networking & Admin:** OSI, TCP/IP, SSH, NAT, systemctl, Cisco Packet Tracer
-* **Tools:** Nmap, VirtualBox, Bash (basic)
+* **OS:** Linux (Ubuntu Server, Kali Linux, Debian, CachyOS, WSL2)
+* **Networking & Admin:** OSI, TCP/IP, SSH, NAT, systemctl, Cisco Packet Tracer, 
+* **Tools:** Nmap, VirtualBox, Bash, Git, 
 
-## 📌 Current Focus & Home Lab
-* Building a custom Linux Home Lab (Ubuntu Server 26.04 + VirtualBox)
+## 📌 Current Focus
+* Building a Linux Home Lab (Ubuntu Server 26.04 + VirtualBox)
 * Learning how to write Bash automation scripts for server monitoring
-* Preparing configurations for NGINX & Fail2ban
 
